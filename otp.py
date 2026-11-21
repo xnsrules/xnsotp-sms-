@@ -30,8 +30,8 @@ from telegram.ext import (
 # ============================================================
 # CONFIG
 # ============================================================
-BOT_TOKEN = "apna bot token dalo "
-ADMIN_IDS = [apna admin id]
+BOT_TOKEN = "8809703359:AAGBkcUZ-t6PPQ26lmLOvOal-br98eflqW8"
+ADMIN_IDS = [8758887048]
 
 logging.basicConfig(
     level=logging.INFO,
